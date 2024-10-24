@@ -7,6 +7,7 @@ Seperated into 2 sections: Word List and Guessing
   >Word List:
     This determines the difficulty of the set of words used in the guessing game.
     Currently 3 difficulties: Easy, Normal & Hard
+  
   >Guessing:
     This determines how many chances to incorrectly guess are available.
     Currently 2 difficulties: Easy (multiple guesses) & Hard (1 Guess)
